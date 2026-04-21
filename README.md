@@ -95,3 +95,5 @@ Centralizar informações estratégicas
 Facilitar análises rápidas e profundas
 Apoiar decisões comerciais e financeiras
 Ao unir modelagem de dados, DAX, visualização e entendimento de negócio, o BI deixa de ser apenas operacional e passa a ser um ativo estratégico da empresa.
+<img width="745" height="418" alt="Captura de tela 2026-04-20 234202" src="https://github.com/user-attachments/assets/f0b2206e-fccf-4e92-8041-d5d74729d346" />
+
